@@ -1,7 +1,7 @@
 
 Feature: US02 JPH PUT REQUEST
 
-@Api
+
   Scenario: Us02 JsonPlaceHolder PUT Request
 
     Given kullanici "JsonPlaceUrl" adresine gider
